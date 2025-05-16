@@ -1,6 +1,7 @@
 # Hi there 👋 I'm Saket Ram  
 I like to train deep neural nets 😄
 
+Reach me at saketrambandi@gmail.com
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saketrambandi@gmail.com) 
