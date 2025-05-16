@@ -1,5 +1,9 @@
-# Hi there 👋 I'm Saket Ram  
-I like to train deep neural nets 😄
+<p align="center">
+  <b>Hi there 👋 I'm Saket Ram</b><br>
+  <hr style="width:50%;">
+  I like to train deep neural nets 😄
+</p>
+
 
 Reach me at saketrambandi@gmail.com
 
