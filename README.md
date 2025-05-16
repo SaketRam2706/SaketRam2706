@@ -5,6 +5,19 @@
 </div>
 
 Reach me at saketrambandi@gmail.com
+<div>
+<p>
+    <!-- LinkedIn Logo/Link -->
+    <a href="https://www.linkedin.com/in/yourusername" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    &nbsp;
+    <!-- Kaggle Logo/Link -->
+    <a href="https://www.kaggle.com/yourusername" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
+    </a>
+  </p>
+</div>
 
 
 # 💻 Tech Stack:
