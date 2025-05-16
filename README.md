@@ -1,5 +1,6 @@
-# 💫 About Me:
-Hey there ! This is Saket, currently a final year at the National Institute of Technology Karnataka, Surathkal.
+# Hi there 👋 I'm Saket Ram  
+---
+I like to train deep neural nets 😄
 
 
 ## 🌐 Socials:
