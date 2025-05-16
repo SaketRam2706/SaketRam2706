@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi there 👋 I'm Saket Ram</h1>
   <hr style="width:50%;">
-  <h3>I like to train deep neural nets 😄</h3>
+  <h3>I like to train large deep neural nets 😄🧠</h3>
 </div>
 
 Reach me at saketrambandi@gmail.com
