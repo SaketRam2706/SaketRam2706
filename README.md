@@ -1,9 +1,8 @@
 <p align="center">
-  <b>Hi there 👋 I'm Saket Ram</b><br>
+  <h1>Hi there 👋 I'm Saket Ram</h1>
   <hr style="width:50%;">
-  I like to train deep neural nets 😄
+  <h3>I like to train deep neural nets 😄</h3>
 </p>
-
 
 Reach me at saketrambandi@gmail.com
 
